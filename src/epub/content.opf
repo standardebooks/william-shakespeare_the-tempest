@@ -65,7 +65,6 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_the-tempest</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
 		<meta property="file-as" refines="#author">Shakespeare, William</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Shakespeare</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78095332</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
