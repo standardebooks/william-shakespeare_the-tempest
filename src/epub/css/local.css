@@ -64,30 +64,40 @@ section[epub|type~="z3998:scene"] > p{
 }
 /* End drama */
 
-/* Verse */
+/* Verse & song */
+[epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:verse"] p + p,
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
 
+[epub|type~="z3998:song"] + p,
 [epub|type~="z3998:verse"] + p{
 	text-indent: 0;
 }
 
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
-/* End verse */
+
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
+}
+/* End verse & song */
 
 /* Dramatis personae */
 [epub|type~="z3998:dramatis-personae"]{
