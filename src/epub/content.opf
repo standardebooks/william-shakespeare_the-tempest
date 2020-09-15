@@ -56,9 +56,9 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
-		<dc:source>http://shakespeare.mit.edu/tempest/</dc:source>
+		<dc:source>http://shakespeare.mit.edu/tempest/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Tempest</meta>
@@ -73,9 +73,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">Jeremy Hylton</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Hylton, Jeremy</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Matic Likar</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Likar, Matic</meta>
