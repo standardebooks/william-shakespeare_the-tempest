@@ -51,9 +51,11 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85136792</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A magic-induced tempest shipwrecks the king of Naples and his crew on the island of the usurped duke of Milan.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Tempest&lt;/i&gt;, thought to be one of the last plays that &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; wrote alone, begins with a storm which shipwrecks the king of Naples and his crew. We quickly learn that the tempest was not a natural occurence; it was created by Prospero, the usurped duke of Milan stranted on a nearby island, with the help of Ariel, a spirit in his service. The rest of the play explores the relationships between the shipwrecked crew, Prospero and his daughter Miranda, as well as a native of the island: a half human, half monster called Caliban.&lt;/p&gt;
+			&lt;p&gt;Though this play is traditionally classified as a comedy, more modern scholarship, out of a desire to highlight the dramatic elements of some of Shakepeare's comedies, created a subgroup called the “late romances”. &lt;i&gt;The Tempest&lt;/i&gt; is included in that list.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks production is based on Sir Arthur Quiller-Couch and John Dover Wilson’s 1923 Cambridge edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/tempest/full.html</dc:source>

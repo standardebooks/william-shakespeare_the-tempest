@@ -71,16 +71,6 @@ section[epub|type~="z3998:scene"] > p{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p,
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
-[epub|type~="z3998:song"] + p,
-[epub|type~="z3998:verse"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
@@ -118,9 +108,5 @@ p span.i2{
 [epub|type~="z3998:dramatis-personae"] ul li{
 	margin: 1em;
 	font-style: italic;
-}
-
-[epub|type~="z3998:dramatis-personae"] li p + p{
-	font-style: normal;
 }
 /* End dramatis personae */
