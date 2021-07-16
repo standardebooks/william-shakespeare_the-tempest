@@ -52,6 +52,8 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">sh85136792</meta>
 		<meta property="se:subject">Drama</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A magic-induced tempest shipwrecks the king of Naples and his crew on an island inhabited by the usurped duke of Milan.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Tempest&lt;/i&gt;, thought to be one of the last plays that &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;Shakespeare&lt;/a&gt; wrote alone, begins with a storm which shipwrecks the king of Naples and his crew. We quickly learn that the tempest was not a natural occurence; it was created by Prospero, the usurped duke of Milan who is stranded on a nearby island, with the help of Ariel, a spirit in his service. The rest of the play explores the relationships between the shipwrecked crew, Prospero, his daughter Miranda, and a native of the island: a half human, half monster called Caliban.&lt;/p&gt;
