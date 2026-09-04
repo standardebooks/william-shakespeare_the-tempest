@@ -30,12 +30,12 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Tempest</dc:title>
 		<meta property="file-as" refines="#title">Tempest, The</meta>
-		<dc:subject id="subject-1">Shipwreck victims -- Drama</dc:subject>
-		<dc:subject id="subject-2">Fathers and daughters -- Drama</dc:subject>
-		<dc:subject id="subject-3">Magicians -- Drama</dc:subject>
-		<dc:subject id="subject-4">Political refugees -- Drama</dc:subject>
-		<dc:subject id="subject-5">Islands -- Drama</dc:subject>
-		<dc:subject id="subject-6">Spirits -- Drama</dc:subject>
+		<dc:subject id="subject-1">Shipwreck victims--Drama</dc:subject>
+		<dc:subject id="subject-2">Fathers and daughters--Drama</dc:subject>
+		<dc:subject id="subject-3">Magicians--Drama</dc:subject>
+		<dc:subject id="subject-4">Political refugees--Drama</dc:subject>
+		<dc:subject id="subject-5">Islands--Drama</dc:subject>
+		<dc:subject id="subject-6">Spirits--Drama</dc:subject>
 		<dc:subject id="subject-7">Tragicomedy</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008111631</meta>
